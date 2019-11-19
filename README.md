@@ -8,6 +8,9 @@ This repository contains code associated with the Github workshop at OSU.
 
 <<<<<<< HEAD
 This is Arjun.
+
+Hanging in there?
+
 =======
 Flavia was here.
 >>>>>>> a753e7fd55260eadf325768cb43d8389f36c835d
