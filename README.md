@@ -7,10 +7,19 @@
 This repository contains code associated with the Github workshop at OSU.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+Brooks was here. AGAIN!
+=======
 This is Arjun.
+
+Me again!
+<<<<<<< HEAD
 
 Hanging in there?
 
+=======
+>>>>>>> 0265fd3c7ea829fa94d75a60d7a3c18f148055d6
+>>>>>>> 09684cfa1fa03c7994d7639403bc03bf73e06cd7
 =======
 Flavia was here.
 >>>>>>> a753e7fd55260eadf325768cb43d8389f36c835d
