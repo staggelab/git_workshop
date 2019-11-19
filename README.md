@@ -6,6 +6,8 @@
 
 This repository contains code associated with the Github workshop at OSU.
 
+Flavia was here.
+
 ## Code
 
 All code is presented in the [Code Folder](https://github.com/jstagge/git_workshop/tree/master/code), with more detailed explanations.
@@ -34,4 +36,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Can add some acknowledgements here
+* Can add some acknowledgements here, I'd like to thank my mom
