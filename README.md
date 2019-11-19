@@ -4,7 +4,11 @@
 
 This repository contains code associated with the Github workshop at OSU.
 
+<<<<<<< HEAD
 Brooks was here.
+=======
+Flavia was here.
+>>>>>>> a753e7fd55260eadf325768cb43d8389f36c835d
 
 ## Code
 
@@ -34,4 +38,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Can add some acknowledgements here
+* Can add some acknowledgements here, I'd like to thank my mom
