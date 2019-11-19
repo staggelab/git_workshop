@@ -4,6 +4,8 @@
 
 This repository contains code associated with the Github workshop at OSU.
 
+This is Arjun.
+
 ## Code
 
 All code is presented in the [Code Folder](https://github.com/jstagge/git_workshop/tree/master/code), with more detailed explanations.
