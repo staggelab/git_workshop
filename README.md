@@ -1,3 +1,5 @@
+#Colin!!!
+
 # Github Workshop
 
 [![DOI](https://zenodo.org/badge/5432.svg)](https://zenodo.org/badge/latestdoi/5432)
@@ -5,6 +7,16 @@
 This repository contains code associated with the Github workshop at OSU.
 
 This is Jim writing his name
+
+Brooks was here. AGAIN!
+
+This is Arjun.
+
+Me again!
+
+Hanging in there?
+
+Flavia was here.
 
 ## Code
 
@@ -34,4 +46,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Can add some acknowledgements here
+* Can add some acknowledgements here, I'd like to thank my mom
