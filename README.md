@@ -1,22 +1,8 @@
-#Colin!!!
-
 # Github Workshop
 
 [![DOI](https://zenodo.org/badge/5432.svg)](https://zenodo.org/badge/latestdoi/5432)
 
 This repository contains code associated with the Github workshop at OSU.
-
-This is Jim writing his name
-
-Brooks was here. AGAIN!
-
-This is Arjun.
-
-Me again!
-
-Hanging in there?
-
-Flavia was here.
 
 ## Code
 
@@ -25,6 +11,9 @@ All code is presented in the [Code Folder](https://github.com/jstagge/git_worksh
 ## Assets
 
 I added our powerpoint slides in the [Assets Folder](https://github.com/jstagge/git_workshop/tree/master/assets)
+
+This presentation borrows heavily from [Mozilla Science Lab's Friendly Github Intro Workshop](https://kirstiejane.github.io/friendly-github-intro/)
+
 
 ## Reference and How to Cite
 
